@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="design">
+    <title>Design (Carliner's Tripartite Model)</title>
+    <shortdesc>There are three primary aspects and types of design, each of which function
+        differently, and are applicable situationally. </shortdesc>
+    <taskbody>
+        <context>These aspects form from Carliner's tripartite model of communication design and are
+            as follows:<p/></context>
+        <steps>
+            <step>
+                <cmd><b>Physical Design</b>: concerned with access, viewability, and timing.</cmd>
+                <info> PD is about moving the reader/user’s eyes to relevant content. For this
+                    reason, issues such as access (for example, headings), viewability (for example,
+                    video resolution, audio quality), and timing (for example, speed of the video,
+                    pace of the narration) are influential</info>
+            </step>
+            <step>
+                <cmd><b>Cognitive Design</b>: concerned with accuracy, completeness, and
+                    pertinence.</cmd>
+                <info>The cognitive design concerns include accuracy (that is, whether the video
+                    contained any errors of fact or execution), completeness (that is, whether the
+                    video appears to cover all expected topics), and pertinence (that is, whether
+                    the video is edited to include only relevant information). </info>
+            </step>
+            <step>
+                <cmd><b>Affective Design</b>: concerned with confidence, selfefficacy, and
+                    engagement.</cmd>
+                <info>Affective design touches on issues of comfort, engagement, encouragement, and
+                    motivation. Qualities that matter are: confidence (for example, whether the
+                    narrator inspires confidence in the outcome of the lesson), self-efficacy (that
+                    is, whether the narrator or content encourages users to believe in their ability
+                    to succeed), and engagement (that is, whether an attempt is made to capture and
+                    hold attention).</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

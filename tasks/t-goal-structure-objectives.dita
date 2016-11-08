@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="goal-structure-objectives">
+    <title>Goal, Structure, Objectives</title>
+    <taskbody>
+        <context>You must start your project with planning. Recording on the fly without goals,
+            structures and objectives will lead to a discombobulated final product.<p>A clear goal
+                and objectives that mark off progress will communicate to the viewer what the
+                beginning and end state of the video are supposed to be. <note>viewers can judge
+                    progress through the task and begin to anticipate where actions are headed, so
+                    that any gaps in detail can be filled</note></p></context>
+    </taskbody>
+</task>

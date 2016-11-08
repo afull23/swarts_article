@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="best-practices-list">
+    <title>Best Practices List</title>
+    <taskbody>
+        <context>You must start your project with planning. Recording on the fly without goals,
+            structures and objectives will lead to a discombobulated final product.<p>
+                <ol>
+                    <li>A clear goal and objectives that mark off progress will communicate to the
+                        viewer what the beginning and end state of the video are supposed to be. </li>
+                    <li>Techniques like master shots, long shots, medium shots, scenes, cuts, and
+                        montages all matter in the creation of videos</li>
+                    <li>Use Strategic Redundancy</li>
+                    <li> Start with a statement about what viewers would learn or accomplish. Doing
+                        this assures the viewers that they are about to watch something
+                        worthwhile</li>
+                    <li>Reassure the viewer: They will want to know that the task is not difficult,
+                        that the instructions presented will lead to a successful outcome, and that
+                        the task will be as easy as demonstrated.</li>
+                </ol>
+            </p></context>
+    </taskbody>
+</task>
